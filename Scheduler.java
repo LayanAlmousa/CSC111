@@ -6,6 +6,7 @@ import java.util.Comparator;
 public class Scheduler {
     private List<PCB> q1;
     private List<PCB> q2;
+    public String x;
 
     // Constructor
     public Scheduler() {
